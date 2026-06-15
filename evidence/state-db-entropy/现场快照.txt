@@ -1,0 +1,33 @@
+=== State DB Entropy - 现场快照 ===
+时间: 2026-06-06T04:44:52.513229
+Gateway PID: 179987 (启动于 Jun5 04:38, 已运行 ~24h)
+
+== 存储大小 ==
+state.db:     712.2 MB
+state.db-wal: 474.8 MB
+总计:          1187.0 MB
+
+== 数据量 ==
+消息总数: 57306
+会话数:   1196
+时间跨度: 2026-05-04T21:52:03.179132 ~ 2026-06-06T04:44:10.303578
+
+== 各表行数 ==
+  compression_locks: 0 rows
+  messages: 57306 rows
+  messages_fts: 57306 rows
+  messages_fts_config: 1 rows
+  messages_fts_content: 57306 rows
+  messages_fts_data: 9498 rows
+  messages_fts_docsize: 57306 rows
+  messages_fts_idx: 6815 rows
+  messages_fts_trigram: 57306 rows
+  messages_fts_trigram_config: 1 rows
+  messages_fts_trigram_content: 57306 rows
+  messages_fts_trigram_data: 64373 rows
+  messages_fts_trigram_docsize: 57306 rows
+  messages_fts_trigram_idx: 34034 rows
+  schema_version: 1 rows
+  sessions: 1196 rows
+  sqlite_sequence: 1 rows
+  state_meta: 3 rows
