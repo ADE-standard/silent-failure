@@ -1,0 +1,10 @@
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.pyc
+__pycache__/
+.DS_Store
+.vscode/
+.idea/
